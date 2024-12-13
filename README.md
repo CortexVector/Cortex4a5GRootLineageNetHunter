@@ -1,3 +1,5 @@
+# IF ANYONE SEES THIS, IT IS CURRENTLY A WIP AND NOT DONE YET
+
 # Cortex4a5GRootLineageNetHunter
 This is a repo for setting up a Google Pixel 4a 5G with Lineage OS and Rooted Kali NetHunter in 2024/2025
 (Written 12/08/2024 and not sure if/how much I will keep this up-to-date)
